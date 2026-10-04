@@ -20,5 +20,6 @@
   <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=white" alt="XML">
   <img src="https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Rust-CE422B?logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="Cpp">
   <!-- you can find more badges here!! https://github.com/inttter/md-badges -->
 </p>
