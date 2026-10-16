@@ -6,9 +6,7 @@
 <h3 align="center">Social:</h3>
 <p align="center">
   <a href="https://discord.com/users/1159765886471770134"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.xbox.com/en-US/play/user/isosmotik"><img src="https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff" alt="Xbox"></a>
   <a href="https://www.youtube.com/@isosmotik"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/isosmotik"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 <!-- if u are readin this, u must be meow! then lemme sing for u :3 xue hua piao piao bei feng xiao xiao -->
 <h4 align="center"><span style="color: #949392">I have eaten those:</span></h4>
